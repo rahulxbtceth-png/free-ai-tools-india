@@ -1,0 +1,31 @@
+name: Update list from block4roots.com
+
+# Every morning, rebuild README.md from the live Block4Roots tools list and commit it if anything changed.
+on:
+  schedule:
+    - cron: "41 2 * * *" # 08:11 IST, after the daily tool scout
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild README
+        env:
+          # Public, read-only keys: the same ones block4roots.com uses in the browser (protected by row-level security).
+          SUPABASE_URL: https://yukdjsheraiyqbjlqrve.supabase.co
+          SUPABASE_KEY: sb_publishable_zSKFKHNk5odj3lhYPuSsdw_NX_-sk-7
+        run: python3 scripts/build_readme.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then echo "No changes"; exit 0; fi
+          git config user.name "block4roots-bot"
+          git config user.email "block@block4roots.com"
+          git add README.md
+          git commit -m "Daily update from block4roots.com"
+          git push
