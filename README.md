@@ -2,7 +2,7 @@
 
 A hand-checked list of **157 AI tools with a real free plan**, with free limits and paid prices in ₹ where the maker shows them. Every free plan and price is checked on the tool's own site.
 
-Updated automatically every day from [Block4Roots](https://block4roots.com), a beginner-first AI tool finder. Last update: **21 Nov 2026**.
+Updated automatically every day from [Block4Roots](https://block4roots.com), a beginner-first AI tool finder. Last update: **22 Nov 2026**.
 
 - Not sure which one to pick? Tell [Block4Roots](https://block4roots.com) the job ("make a thumbnail", "summarise my notes") and get the top 3 tools for it.
 - Hindi users: see [AI tools in Hindi](https://block4roots.com/ai-tools-in-hindi).
