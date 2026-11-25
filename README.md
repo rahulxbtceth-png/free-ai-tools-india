@@ -2,7 +2,7 @@
 
 A hand-checked list of **186 AI tools with a real free plan**, with free limits and paid prices in ₹ where the maker shows them. Every free plan and price is checked on the tool's own site.
 
-Updated automatically every day from [Block4Roots](https://block4roots.com), a beginner-first AI tool finder. Last update: **24 Nov 2026**.
+Updated automatically every day from [Block4Roots](https://block4roots.com), a beginner-first AI tool finder. Last update: **25 Nov 2026**.
 
 - Not sure which one to pick? Tell [Block4Roots](https://block4roots.com) the job ("make a thumbnail", "summarise my notes") and get the top 3 tools for it.
 - Hindi users: see [AI tools in Hindi](https://block4roots.com/ai-tools-in-hindi).
@@ -137,7 +137,7 @@ Top 3 picks for this job: [https://block4roots.com/best-ai-tools/image](https://
 | [nanobanana0](https://block4roots.com/tools/nanobanana0) | AI image generation and editing with Nano Banana 2.1 and 40+ models | Yes | from $8.99 |
 | [Photo to Sticker](https://block4roots.com/tools/phototosticker) | Turn a photo into a free instant sticker, then create a 16-expression AI sticker pack for WhatsApp, Telegram and Discord. | 3 free AI uses per account; free instant PNG sticker | free / see site |
 | [Photoroom](https://block4roots.com/tools/photoroom) | Removes backgrounds and makes clean product photos from your phone pictures. | Free exports are watermarked | from $7.5 |
-| [PicOnTap](https://block4roots.com/tools/picontap) | Free AI photo editor in the browser: describe an edit in a text prompt to remove objects, change backgrounds or restore old photos. No sign… | Yes | free / see site |
+| [PicOnTap](https://block4roots.com/tools/picontap) | Free AI photo editor in the browser: describe an edit in a text prompt to remove objects, change backgrounds or restore old photos. No sign… | 2 free credits/day (about one edit) | free / see site |
 | [Picsart](https://block4roots.com/tools/picsart) | Photo and video editor app with AI effects, background removal and ready templates. | Free app with basic editing; more AI tools need Pro | from ₹1,439 |
 | [Pixelcut](https://block4roots.com/tools/pixelcut) | Removes the background from a photo in one click and makes clean product images. | Limited background removal and upscale; free export without watermark (Pixelcut gives no exact number) | from $8 |
 | [Pixlr](https://block4roots.com/tools/pixlr) | Free online photo editor with AI tools to remove backgrounds, generate images and fix photos. | Free with ads and limited saves | from $2.49 |
@@ -216,7 +216,7 @@ Top 3 picks for this job: [https://block4roots.com/best-ai-tools/design](https:/
 | Tool | What it does | Free plan | Paid |
 |---|---|---|---|
 | [Adobe Express](https://block4roots.com/tools/adobe-express) | Free design app for posters, social posts, flyers and short videos, with AI image and text effects. | Free templates and limited AI credits | from ₹399 |
-| [Canva](https://block4roots.com/tools/canva) 🇮🇳 | Drag-and-drop design with AI image, text and resize tools. | 5 GB storage; ~20 AI uses | from ₹133 |
+| [Canva](https://block4roots.com/tools/canva) 🇮🇳 | Drag-and-drop design with AI image, text and resize tools. | 5 GB storage; ~20 AI uses | from $12.95 |
 | [Figma](https://block4roots.com/tools/figma) | Pro design tool with AI features for UI and prototypes. | 3 collaborative files; 3 pages per file; 30-day version history; limited AI credits | from $20 |
 | [Framer](https://block4roots.com/tools/framer) | Design and publish websites with AI layout help. | Framer subdomain; 1 GB bandwidth; 1,000 pages | from $15 |
 | [Gamma](https://block4roots.com/tools/gamma) | Turns an outline into a full slide deck or webpage. | 400 one-time AI credits; 10 cards per prompt | from ₹400 |
