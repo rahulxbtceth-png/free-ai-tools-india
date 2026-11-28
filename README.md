@@ -1,8 +1,8 @@
 # Free AI tools for Indians (2026)
 
-A hand-checked list of **224 AI tools with a real free plan**, with free limits and paid prices in ₹ where the maker shows them. Every free plan and price is checked on the tool's own site.
+A hand-checked list of **247 AI tools with a real free plan**, with free limits and paid prices in ₹ where the maker shows them. Every free plan and price is checked on the tool's own site.
 
-Updated automatically every day from [Block4Roots](https://block4roots.com), a beginner-first AI tool finder. Last update: **27 Nov 2026**.
+Updated automatically every day from [Block4Roots](https://block4roots.com), a beginner-first AI tool finder. Last update: **28 Nov 2026**.
 
 - Not sure which one to pick? Tell [Block4Roots](https://block4roots.com) the job ("make a thumbnail", "summarise my notes") and get the top 3 tools for it.
 - Hindi users: see [AI tools in Hindi](https://block4roots.com/ai-tools-in-hindi).
@@ -12,18 +12,18 @@ Legend: 🇮🇳 = works in Hindi. Prices change often, so always confirm on the
 
 ## Contents
 
-- [Ask AI and chat](#ask-ai-and-chat) (13)
+- [Ask AI and chat](#ask-ai-and-chat) (14)
 - [Write and edit](#write-and-edit) (19)
-- [Research and summarise](#research-and-summarise) (17)
-- [Learn and exam prep](#learn-and-exam-prep) (20)
-- [Make images](#make-images) (40)
-- [Make and edit video](#make-and-edit-video) (45)
-- [Voice and music](#voice-and-music) (17)
-- [Design and slides](#design-and-slides) (9)
+- [Research and summarise](#research-and-summarise) (21)
+- [Learn and exam prep](#learn-and-exam-prep) (21)
+- [Make images](#make-images) (44)
+- [Make and edit video](#make-and-edit-video) (50)
+- [Voice and music](#voice-and-music) (21)
+- [Design and slides](#design-and-slides) (12)
 - [Grow on social](#grow-on-social) (8)
 - [Notes and productivity](#notes-and-productivity) (17)
 - [Automate work](#automate-work) (8)
-- [Code](#code) (11)
+- [Code](#code) (12)
 
 ## Ask AI and chat
 
@@ -43,6 +43,7 @@ Top 3 picks for this job: [https://block4roots.com/best-ai-tools/chat](https://b
 | [Secure AI](https://block4roots.com/tools/secureai) | On-device iPhone/iPad AI chat and document help. Free with ads, limits and Pro. Submitted by developer Nelson Lai's authorized assistant. | Yes | free / see site |
 | [Soulframe guide](https://block4roots.com/tools/soulframeguide) | Soulframe builds, Pacts and step-by-step guides — get the answer, get back to playing. | Yes | free / see site |
 | [Telo](https://block4roots.com/tools/telo) | Ask Codex or Claude Desktop about Apple Health sleep, HRV, workouts and readiness synced to Telo. | Yes | free / see site |
+| [Tideris / 潮汐之眼](https://block4roots.com/tools/tideris) | Free BaZi, Liu Yao, Qi Men, and daily fortune in plain English | Yes | free / see site |
 | [Yuppop](https://block4roots.com/tools/yuppop) | Create trending videos, images and more with AI, plus free online creator tools | Yes | free / see site |
 
 ## Write and edit
@@ -84,12 +85,16 @@ Top 3 picks for this job: [https://block4roots.com/best-ai-tools/research](https
 | [Elicit](https://block4roots.com/tools/elicit) | Finds and summarises academic papers. | 2 automated reports/month | from $75 |
 | [Gemini Notebook (NotebookLM)](https://block4roots.com/tools/notebooklm) 🇮🇳 | Upload PDFs and notes, then ask questions or get audio summaries. | 100 notebooks; 50 sources each; 50 chats/day | from ₹399 |
 | [Genspark](https://block4roots.com/tools/genspark) | An AI workspace that researches a topic for you and turns it into slides, sheets or documents. | 100 credits a day up to a lifetime allowance (size not published); 1 GB storage | from $24.99 |
+| [InsightRaider Product Machine](https://block4roots.com/tools/insightraiderproductmachine) | Compare prices and public activity for digital products on Gumroad, Whop, and Skool with a free card and companion AI assistant skill. | Yes | free / see site |
 | [Liner](https://block4roots.com/tools/liner) | AI search tool that answers research questions and shows the sources behind each answer. | Unlimited Advanced Search; 1 file upload a day (up to 25MB); answers with ads | from $14.99 |
+| [MeetNewAI](https://block4roots.com/tools/meetnewai) | Free bilingual directory of AI tools, browser-playable AI games, and MCP servers organized by the job you need done. | Yes | free / see site |
 | [ORBIT Research](https://block4roots.com/tools/orbit-research) | Format research papers to any journal template, find the right journal, discover literature, check references and turn papers into slides. | 5 credits a month plus 10 searches in each free tool. No card needed. | from ₹799 |
 | [Orkas](https://block4roots.com/tools/orkas) | Turn a research question and sources into a cited report with DeepResearcher in Orkas, an open-source desktop workspace for macOS and Windo… | Yes | free / see site |
 | [Perplexity](https://block4roots.com/tools/perplexity) 🇮🇳 | Answer engine that cites its sources for every claim. | 3 Pro Searches/day; 1 Deep Research/month | from $20 |
 | [PixelSniff](https://block4roots.com/tools/pixelsniff) | PixelSniff checks if a photo was made by AI. Upload a JPG, PNG, WebP or HEIC and get a 0–100% AI likelihood score from multiple detection e… | Yes | free / see site |
+| [Prompt Set Generator](https://block4roots.com/tools/promptsetgenerator) | Turns a site or category into up to 48 buyer prompts by buying stage, with Google search demand and 12-month trend for each. Edit, then exp… | Yes | free / see site |
 | [ResearchRabbit](https://block4roots.com/tools/researchrabbit) | Start from a few research papers and it finds related papers and shows how they connect on a map. | Unlimited searches across 310+ million articles; unlimited library and collections; up to 50 seed articles | from $10 |
+| [ScholarMuse](https://block4roots.com/tools/scholarmuse) | Real papers, reference checks, research data and scientific figures for your AI agent via one MCP connection. | Yes | free / see site |
 | [SciSpace](https://block4roots.com/tools/scispace) 🇮🇳 | Finds research papers and explains them in simple words. You can chat with any paper or PDF. | Free Basic plan with limited daily use | from ₹1,200 |
 | [Semantic Scholar](https://block4roots.com/tools/semantic-scholar) | Free search engine for 200 million+ research papers, with short AI summaries of each paper. | Everything is free | free / see site |
 | [TrustHawk](https://block4roots.com/tools/trusthawk) | Independent ratings of AI companies on safety, transparency, security and privacy, from verified public data with sources for every finding. | Yes | free / see site |
@@ -114,6 +119,7 @@ Top 3 picks for this job: [https://block4roots.com/best-ai-tools/learn](https://
 | [LangScribe](https://block4roots.com/tools/langscribe) | LangScribe is a language learning platform with Discover graded English/Japanese ladder lessons, bilingual subtitles, and A–B shadowing. | Yes | free / see site |
 | [Lesson Dino](https://block4roots.com/tools/lessondino) | AI lesson plans, slides and worksheets, with sources | 10 free lessons | free / see site |
 | [PadhAI](https://block4roots.com/tools/padhai) | UPSC preparation app with AI answer checking, an AI tutor, daily current affairs and quiz battles. | Free and unlimited: Daily News (current affairs) and Duel quiz battles; everything else needs Pro | from ₹349 |
+| [Passumi](https://block4roots.com/tools/passumi) | Timed practice for CBLE, clinical research certifications and CSCA, with the first 25% of every paper free. | Yes | free / see site |
 | [Photomath](https://block4roots.com/tools/photomath) 🇮🇳 | Scan a maths problem with your camera and see step-by-step solutions. Owned by Google. | Basic step-by-step solutions free | from $9.99 |
 | [PrepAiro](https://block4roots.com/tools/prepairo) 🇮🇳 | UPSC preparation app with an AI voice mentor, daily MCQs, current affairs and AI Mains answer checking, for Hindi and English medium. | 50 MCQs a day, basic progress tracking, daily current affairs; limited free AI Voice Mentor chats (per Play listing); M… | from ₹999 |
 | [Quizlet](https://block4roots.com/tools/quizlet) | Flashcards and practice tests with AI study help. | Learn limited per set; one practice test per set | from $7.99 |
@@ -128,6 +134,7 @@ Top 3 picks for this job: [https://block4roots.com/best-ai-tools/image](https://
 
 | Tool | What it does | Free plan | Paid |
 |---|---|---|---|
+| [A 4:5 still beside Sheru Bhai](https://block4roots.com/tools/a45stillbesidesherubhai) | Export a 4:5 post crop, or a 9:16 or 1:1 alternative, as a 1K PNG of you beside Sheru Bhai after uploading one clear face photo. | 1 free 1K photo per verified account | free / see site |
 | [Adobe Firefly](https://block4roots.com/tools/firefly) | Adobe's all-in-one AI studio for images, video, audio, and music. | Limited daily generations | from ₹798 |
 | [AI Clothes Changer Free](https://block4roots.com/tools/aiclotheschangerfree) | Free AI clothes changer: upload a photo, pick or describe an outfit, and preview a new look without an account. | Yes | free / see site |
 | [AI Hairstyle](https://block4roots.com/tools/aihairstyle) | Try 100+ haircuts and 30+ hair colors on your own photo | 10 sign-in credits for one look; extra looks cost 10 credits | free / see site |
@@ -140,17 +147,18 @@ Top 3 picks for this job: [https://block4roots.com/best-ai-tools/image](https://
 | [BlendCanvas](https://block4roots.com/tools/blendcanvas) | Branch one reference photo across AI image and video models | Yes | free / see site |
 | [CarioApp](https://block4roots.com/tools/carioapp) | Turn a photo into a playful portrait with CarioApp's Caricature AI. Explore styles, create a career caricature, and personalize your avatar… | First caricature free; 2 standard ones a week when signed in | from $14.9 |
 | [Change Text in Image](https://block4roots.com/tools/changetextinimage) | AI photo text editor that replaces text in photos, screenshots, and ads while matching font, color, and style. | 1 free generation | free / see site |
-| [ComicStory AI](https://block4roots.com/tools/comicstoryai) | Character-consistent AI comic generator and comic book maker with one consistent hero. | Yes | free / see site |
+| [ComicStory AI](https://block4roots.com/tools/comicstoryai) | Character-consistent AI comic generator and comic book maker with one consistent hero. | 50 signup credits | free / see site |
 | [Create Image](https://block4roots.com/tools/createimage) | Changing a model in Create Image can change the available inputs and settings. Reference support, aspect ratios and video duration are mode… | 3 one-time generations; none for Indian accounts | from $9.99 |
 | [FacetQuiz](https://block4roots.com/tools/facetquiz) | Pick the faces that catch your eye across eight portrait sets and get a free "type" card. Free, no sign-up, fictional AI portraits, 18+. | 8 sets per round | free / see site |
 | [Google Photos](https://block4roots.com/tools/google-photos) 🇮🇳 | Edit your phone photos by typing or saying what you want changed, in English or Hindi. | Free AI edits on Android; no limit published by Google | free / see site |
 | [Ideogram](https://block4roots.com/tools/ideogram) | Generative media platform for images, video, apps and APIs. | 10 slow credits/week, public | from $20 |
 | [Image Studio](https://block4roots.com/tools/imagestudio) | Create watermark-free high-res AI images from a text prompt in about 30 seconds. | Yes | free / see site |
 | [ImageToImageAI](https://block4roots.com/tools/imagetoimageai) | Transform existing photos with reference-based AI editing | 10 free credits after sign-up | free / see site |
-| [ImgUpscaler](https://block4roots.com/tools/imgupscaler) | Free AI Image Upscaler, made simple. | Yes | free / see site |
+| [ImgUpscaler](https://block4roots.com/tools/imgupscaler) | Free AI Image Upscaler, made simple. | 2 images/day up to 8 MP | free / see site |
 | [Krea](https://block4roots.com/tools/krea) | AI studio for images, videos, and an AI creative agent. | 100 compute units/day | from $9 |
 | [LensPrompts](https://block4roots.com/tools/lensprompts) | Free, tested AI image and video prompts. Copy in one click | Yes | free / see site |
 | [Leonardo AI](https://block4roots.com/tools/leonardo) | Image generator with many styles and game-art tools. | 150 fast tokens/day | from $12 |
+| [Local AI Image](https://block4roots.com/tools/localaiimage) | An open-source offline AI image generator for Mac and Windows with local Z-Image-Turbo and FLUX.2 klein generation and editing. | Yes | free / see site |
 | [LoraAI](https://block4roots.com/tools/loraai) | AI image generation, LoRA discovery and custom training for consistent characters and products. | Free signup credits | from $24.9 |
 | [MakeMyBookCover](https://block4roots.com/tools/makemybookcover) | MakeMyBookCover turns a title, genre, and story brief into a KDP ebook cover and paperback wrap. | Yes | free / see site |
 | [Nano Banana](https://block4roots.com/tools/nanobanana) | Use Nano Banana 2 online for headshots, product photos and image edits | Yes | free / see site |
@@ -166,6 +174,8 @@ Top 3 picks for this job: [https://block4roots.com/best-ai-tools/image](https://
 | [Recraft](https://block4roots.com/tools/recraft) | Makes vector graphics, icons and brand images. | ~30 credits/day | from $12 |
 | [SceneFlare](https://block4roots.com/tools/sceneflare) | AI image and video creation workspace for models, tools, effects, and production-ready content | Yes | from $19.99 |
 | [TattooStencil](https://block4roots.com/tools/tattoostencil) | Turns uploaded photos and drawings into black-and-white tattoo stencil drafts. | Yes | from $9.9 |
+| [TinyMast](https://block4roots.com/tools/tinymast) | Free AI image upscaler and compressor that runs in your browser — upscale 2×/4× and compress PNG/JPG/WebP without installing anything. | Yes | free / see site |
+| [TryRoomDesign AI Refresh Visualizer](https://block4roots.com/tools/tryroomdesignairefreshvisualiz) | Preview bedroom themes keeping true floorplans | Yes | free / see site |
 | [VirtualStaging.tools](https://block4roots.com/tools/virtualstagingtools) | VirtualStaging.tools is an online virtual staging tool for real estate agents and listing photographers. | Yes | free / see site |
 | [Voffo.ai](https://block4roots.com/tools/voffoai) | Explore cinematic visuals with Voffo.ai, an AI studio for images and videos. The homepage brings text and reference inputs together with to… | Yes | free / see site |
 
@@ -201,12 +211,16 @@ Top 3 picks for this job: [https://block4roots.com/best-ai-tools/video](https://
 | [InVideo AI](https://block4roots.com/tools/invideo-ai) 🇮🇳 | Turns a text prompt into a full video with script, stock clips, voiceover and subtitles. Made in India. | Watermarked free videos with limited AI generations | from $20 |
 | [KineMaster](https://block4roots.com/tools/kinemaster) 🇮🇳 | A phone video editor with layers, AI auto captions, AI voice and an AI object remover. | Free app with ads; exports have a KineMaster watermark; some premium assets locked | from $7.99 |
 | [Kling AI](https://block4roots.com/tools/kling) | Text and image to video with smooth motion. | 66 credits/day, expire in 24 hours | from $8.8 |
-| [LipSyncTool](https://block4roots.com/tools/lipsynctool) | AI lip sync video generator for photos and videos. Add audio or text, create natural mouth movements, preview your result, and download you… | Yes | free / see site |
+| [LipSyncTool](https://block4roots.com/tools/lipsynctool) | AI lip sync video generator for photos and videos. Add audio or text, create natural mouth movements, preview your result, and download you… | Limited daily trial; video and audio up to 10 s each | free / see site |
 | [ListingVideo](https://block4roots.com/tools/listingvideo) | ListingVideo turns one set of listing photos into six editable vertical Reels. | Yes | from $69 |
 | [Luma Dream Machine](https://block4roots.com/tools/luma) | AI creative agent for images, videos, and marketing assets. | Yes | from $30 |
+| [LyricVideoGen Web Portrait Lab](https://block4roots.com/tools/lyricvideogenwebportraitlab) | Produce teasers for 9:16 platforms | Yes | free / see site |
+| [Melies AI](https://block4roots.com/tools/meliesai) | Turn a prompt or photo into cinematic video with sound | Yes | free / see site |
+| [Pellucida](https://block4roots.com/tools/pellucida) | Turn SOPs and expert briefs into storyboarded training videos. | Yes | free / see site |
 | [Pika](https://block4roots.com/tools/pika) | AI platform for video, image, and sound creation with creative apps. | 80 monthly video credits | from $10 |
 | [Pixelrope](https://block4roots.com/tools/pixelrope) | Make AI videos and images with Seedance 2.5, Kling 4, Wan 3.0, Nano Banana Pro and more from one credit balance. | 15 credits on sign-up | from $19.99 |
 | [PixVerse](https://block4roots.com/tools/pixverse) | Turns a text prompt or a photo into a short AI video clip with motion and effects. | 60 credits on joining + 30 credits a day (reset 00:00 UTC, unused credits expire); watermark-free output starts on Stan… | from $10 |
+| [RemoveTextFromVideos Local Video Wiper](https://block4roots.com/tools/removetextfromvideoslocalvideo) | Erase timestamps on your device at 100% free access | Yes | free / see site |
 | [Runway](https://block4roots.com/tools/runway) | AI video generation and editing studio. | 125 one-time credits; no refresh | from $15 |
 | [Short3D](https://block4roots.com/tools/short3d) | Turns a story or topic into a vertical 3D cartoon short with AI voiceover and captions. | Yes | free / see site |
 | [Spitnova](https://block4roots.com/tools/spitnova) | Spitnova turns photos into 15-second AI rap videos. Pick a template, upload a portrait or two for a duo, then generate a clip with rap voca… | Yes | free / see site |
@@ -214,6 +228,7 @@ Top 3 picks for this job: [https://block4roots.com/best-ai-tools/video](https://
 | [Text to Video](https://block4roots.com/tools/texttovideo) | Turn text prompts into AI videos | Yes | free / see site |
 | [VEED](https://block4roots.com/tools/veed) | Online video editor with auto subtitles, background noise removal and AI avatars. | Free exports are watermarked | from $25 |
 | [Vidlantern](https://block4roots.com/tools/vidlantern) | Vidlantern turns one photo, or two for a duo, into a short vertical video with sound. Pick a template such as Closer Dance AI or 58th Floor… | Yes | free / see site |
+| [VisoMaster](https://block4roots.com/tools/visomaster) | Local AI face swap software for Windows with real-time preview, NVIDIA GPU acceleration and private on-device processing. | Yes | free / see site |
 | [VN Video Editor](https://block4roots.com/tools/vn-video-editor) | A free phone and computer video editor with auto captions, text-to-speech and templates. | 150+ free templates and 4K export, no watermark; VN doesn't list which features need Pro | from $7.99 |
 | [VoraVid](https://block4roots.com/tools/voravid) | Turns photos into TikTok-style dance, kiss, hug, and meme videos; also text-to-video and image-to-video. | Yes | free / see site |
 | [VORAvideo](https://block4roots.com/tools/voravideo) | AI Video Generator: Create Professional Videos in 3 Minutes | Yes | from $19.99 |
@@ -229,21 +244,25 @@ Top 3 picks for this job: [https://block4roots.com/best-ai-tools/audio](https://
 |---|---|---|---|
 | [Adobe Podcast](https://block4roots.com/tools/adobepodcast) | Makes phone recordings sound like a studio. | Audio only; 30 min or 500 MB per file; 1 hour/day | from $9.99 |
 | [AI Podcast Generator](https://block4roots.com/tools/aipodcastgenerator) | Turn PDFs, notes, links or YouTube into a podcast — pick length, hosts and language. | Guests: 1 render per episode; signed-in: 3 renders/month, 10 min each | free / see site |
+| [AI Song Maker – AISongsMaker](https://block4roots.com/tools/aisongmakeraisongsmaker) | An AI song maker that turns prompts, lyrics, or your audio into song drafts. | Yes | free / see site |
 | [Audjust AI](https://block4roots.com/tools/audjustai) | Edit audio, shorten or extend songs, find seamless loops, and create music from text. | Limited credits for basic analysis and editing | free / see site |
 | [BeatMusic](https://block4roots.com/tools/beatmusic) | BeatMusic is a free AI music generator. Describe your mood, style or scene and get original, royalty-free music in minutes. | 85 free credits | from $14.9 |
 | [ElevenLabs](https://block4roots.com/tools/elevenlabs) 🇮🇳 | Lifelike AI voices, voice cloning and dubbing. | 10,000 credits/month | from $6 |
 | [KobiMusic](https://block4roots.com/tools/kobimusic) | Turns sheet music photos or scans into playable digital files, and transcribes music audio to MIDI. | 30 credits a day (about 30 pages) with a free account; 5 credits a day without signing up. Resets daily. | from $15 |
 | [LALAL.AI](https://block4roots.com/tools/lalal-ai) | Splits any song into vocals and music, or removes background noise from a recording. | 10 minutes of processing, 200 MB per file | from $7.5 |
+| [MakeBeat](https://block4roots.com/tools/makebeat) | Free online AI beat maker | Yes | free / see site |
 | [Murf](https://block4roots.com/tools/murf) 🇮🇳 | Text-to-speech and AI voice agents for businesses. | 10 min voice; no downloads | from $29 |
 | [Remove Background Noise](https://block4roots.com/tools/removebackgroundnoise) | AI noise reduction for audio and video. Preview 30 seconds free, then pay once to clean the full recording and download a clear WAV or MP4. | Yes | free / see site |
 | [Sarvam AI](https://block4roots.com/tools/sarvam) 🇮🇳 | Indian AI for speech, voice and translation in Indian languages, mainly for builders. | Free API quota | from ₹9,999 |
 | [Seed Music](https://block4roots.com/tools/seedmusic) | Create royalty-free songs with Seed Music AI. Turn prompts, lyrics, moods, and audio ideas into expressive vocal and instrumental music onl… | Starter credits; 10 credits per song draft | from $14.9 |
-| [Sidesly](https://block4roots.com/tools/sidesly) | AI line reader for actors: rehearse scripts with responsive AI cue partners; free tier, paid plans from $9/month. | Yes | free / see site |
+| [Sidesly](https://block4roots.com/tools/sidesly) | AI line reader for actors: rehearse scripts with responsive AI cue partners; free tier, paid plans from $9/month. | Yes | from $9 |
 | [Speechify](https://block4roots.com/tools/speechify) 🇮🇳 | Reads any text, PDF or web page aloud in natural voices. | 10 basic voices; up to 1.5x speed | from $29 |
 | [Speechma](https://block4roots.com/tools/speechma) 🇮🇳 | Free text-to-speech website and app that turns typed text into an MP3 voiceover in 75+ languages, including 23 Hindi voices. | Up to 2,000 characters per conversion (1,000 for some voices), unlimited conversions, MP3 or WAV download, no sign-up | free / see site |
 | [StemTab](https://block4roots.com/tools/stemtab) | Separates vocals or instrument stems from audio you have the rights to, then drafts MIDI or MusicXML that still need manual correction. | Yes | free / see site |
 | [Suno](https://block4roots.com/tools/suno) | Makes full songs with vocals from a text prompt. | 50 credits per day | from $10 |
+| [Therefor](https://block4roots.com/tools/therefor) | AI remembrance, voice preservation, and conversational memorial web app to converse privately via text or synthesized voice. | Yes | free / see site |
 | [Udio](https://block4roots.com/tools/udio) | AI music generator with detailed editing. | 10 credits/day, 100/month cap; full songs capped at 3/day | from $10 |
+| [Words into Music](https://block4roots.com/tools/wordsintomusic) | Turns a written idea or your own lyrics into a finished song with vocals in English, Spanish, German, French or Portuguese, with an MP3 dow… | Yes | free / see site |
 
 ## Design and slides
 
@@ -258,8 +277,11 @@ Top 3 picks for this job: [https://block4roots.com/best-ai-tools/design](https:/
 | [Gamma](https://block4roots.com/tools/gamma) | Turns an outline into a full slide deck or webpage. | 400 one-time AI credits; 10 cards per prompt | from ₹400 |
 | [Image Text Editor](https://block4roots.com/tools/imagetexteditor) | Edit the text already inside your images with AI | 1 free credit for eligible new accounts | free / see site |
 | [Kittl](https://block4roots.com/tools/kittl) | Online design editor with templates and AI tools for logos, posters, T-shirt prints and social posts. | Light usage limits on most Pro features; personal use only | from $12 |
+| [ManualFig](https://block4roots.com/tools/manualfig) | Turn product photos into manual-ready instruction figures. | Yes | free / see site |
 | [Microsoft Designer](https://block4roots.com/tools/microsoft-designer) | Makes posters, social posts, invites and AI images from a short description. | Limited AI credits each month on free | free / see site |
 | [Napkin AI](https://block4roots.com/tools/napkin) | Turns text into diagrams and infographics. | 500 AI credits/week; watermarked free visuals | from $9 |
+| [PatentFig AI](https://block4roots.com/tools/patentfigai) | AI-native patent drawings, ready for filing. | Yes | free / see site |
+| [SciDraw AI](https://block4roots.com/tools/scidrawai) | AI scientific figure & illustration maker for research and teaching. | Yes | free / see site |
 
 ## Grow on social
 
@@ -286,7 +308,7 @@ Top 3 picks for this job: [https://block4roots.com/best-ai-tools/productivity](h
 | [Fireflies.ai](https://block4roots.com/tools/fireflies) | Meeting bot that transcribes and summarises calls. | 400 min storage per team; 20 AI credits | from $18 |
 | [Goblin Tools](https://block4roots.com/tools/goblin-tools) | Free small AI helpers that break a big task into tiny steps and make your writing clearer. | All website tools free, no ads, no account needed | from $3 |
 | [Granola](https://block4roots.com/tools/granola) 🇮🇳 | Meeting notepad that fills in notes from the audio. | Unlimited meetings; notes from last 30 days | from $14 |
-| [Linkjob AI](https://block4roots.com/tools/linkjobai) | AI interview assistant that helps job seekers answer with confidence and get through interviews more smoothly. | Yes | free / see site |
+| [Linkjob AI](https://block4roots.com/tools/linkjobai) | AI interview assistant that helps job seekers answer with confidence and get through interviews more smoothly. | 30 min free trial | from $99.99 |
 | [Notion AI](https://block4roots.com/tools/notionai) | AI inside Notion for notes, docs and wikis. | 5MB file uploads; 7-day page history | from $12 |
 | [Notta](https://block4roots.com/tools/notta) | Turns recordings and live speech into written text with an AI summary. | 120 minutes a month, up to 3 minutes per conversation, 50 file uploads and 10 AI summaries a month | from $8.17 |
 | [Otter.ai](https://block4roots.com/tools/otter) | Records meetings and writes notes automatically. | 300 min/month; 30 min per conversation; 3 lifetime file imports | from $16.99 |
@@ -328,6 +350,7 @@ Top 3 picks for this job: [https://block4roots.com/best-ai-tools/code](https://b
 | [Lovable](https://block4roots.com/tools/lovable) | Describe an app in chat and get a working website. | 5 build credits/day, max 30/month | from $25 |
 | [Modulify](https://block4roots.com/tools/modulify) | Describe a website and AI designs, builds and hosts it, with CMS and SEO settings. | 35 AI credits one time (they don't refresh), 1 site | from $20 |
 | [OpenAI Codex](https://block4roots.com/tools/codex) | OpenAI's coding agent for writing and reviewing code. | Yes | from $20 |
+| [PuraRoute AI Agent](https://block4roots.com/tools/purarouteaiagent) | Give your AI agent a better way to work with proxies | Yes | free / see site |
 | [Replit](https://block4roots.com/tools/replit) | Build and host apps in the browser with an AI agent. | Daily Agent credits; 1 published app | from $20 |
 | [v0](https://block4roots.com/tools/v0) | Vercel's tool for generating web interfaces. | 7 messages/day; $5 credits for new users | from $30 |
 | [Windsurf](https://block4roots.com/tools/windsurf) | Multi-agent manager and IDE for running local and cloud agents. | Light daily/weekly quota | from $20 |
